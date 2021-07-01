@@ -1,0 +1,12 @@
+{
+  "name": "Full-Stack-Recipes",
+  "displayName": "Full-Stack-Recipes",
+  "expo": {
+    "name": "Full-Stack-Recipes",
+    "slug": "Full-Stack-Recipes",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
